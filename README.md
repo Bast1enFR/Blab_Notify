@@ -12,8 +12,13 @@ Stack illimité • Son Custom • Design noir mat • Standalone 0 Dépendance 
 3. Redémarre ou refresh + start  
 → C’est fini !
 
-### Preview vidéo (30 sec)
-https://youtu.be/TON_LIEN_ICI
+### Utilisation (2 secondes)
+```lua
+exports.blab_notify:Notify("Titre", "Description", "Type", (Optionnel) durée en ms)
+exports.blab_notify:Notify("BLab", "Tu viens de gagner 10.000$", "success")
+exports.blab_notify:Notify("Banque", "Retrait refusé", "error", 8000)
+exports.blab_notify:Notify("Info", "Le serveur redémarre dans 5 min", "warning")
+```
 
 ### Support
 Discord : https://discord.gg/VzdUQsmu46
@@ -37,8 +42,13 @@ Unlimited stack • Custom sound • Matte black design • Standalone 0 Depende
 3. Restart or refresh + start  
 → That’s it!
 
-### Video Preview (30 sec)
-https://youtu.be/TON_LIEN_ICI
+### Usage (2 seconds)
+```lua
+exports.blab_notify:Notify("Title", "Description", "Type", (optional) duration in ms)
+exports.blab_notify:Notify("BLab", "You just won $10,000", "success")
+exports.blab_notify:Notify("Bank", "Withdrawal denied", "error", 8000)
+exports.blab_notify:Notify("Info", "Server will restart in 5 min", "warning")
+```
 
 ### Support
 Discord: https://discord.gg/VzdUQsmu46
