@@ -1,6 +1,8 @@
 # BLab Notify – Notification FiveM Simple (FR)
 
-![preview](https://github.com/TON_PSEUDO/blab_notify/assets/123456789/blab-notify-preview.gif)
+![preview](https://github.com/Bast1enFR/Blab_Notify/view.png)
+
+
 
 Stack illimité • Son Custom • Design noir mat • Standalone 0 Dépendance !
 
