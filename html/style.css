@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body { margin:0; overflow:hidden; font-family:'Roboto',sans-serif; }
+
+#notify-container { position: absolute; top: 20px; right: 20px; z-index: 9999; }
+
+.notify {
+    min-width: 320px;
+    max-width: 420px;
+    background: rgba(15,15,15,0.95);
+    border-left: 5px solid #3498db;
+    border-radius: 10px;
+    padding: 16px 20px;
+    margin-bottom: 12px;
+    color: white;
+    transform: translateX(150%);
+    animation: slideIn 0.5s forwards, slideOut 0.5s forwards 4.8s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+    
+}
+
+.notify.success { border-left-color: #2ecc71; }
+.notify.error   { border-left-color: #e74c3c; }
+.notify.warning { border-left-color: #f1c40f; }
+.notify.info    { border-left-color: #3498db; }
+
+@keyframes slideIn { to { transform: translateX(0); opacity: 1; } }
+@keyframes slideOut { to { transform: translateX(150%); opacity: 0; } }
+
+.title   { font-weight: 700; font-size: 17px; margin-bottom: 6px; }
+.message { font-size: 14px; opacity: 0.9; }
