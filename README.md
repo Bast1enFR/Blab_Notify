@@ -1,6 +1,6 @@
 # BLab Notify – Notification FiveM Simple (FR)
 
-![preview](https://github.com/Bast1enFR/Blab_Notify/view.png)
+![preview](https://github.com/Bast1enFR/Blab_Notify/blob/main/view.png)
 
 
 
