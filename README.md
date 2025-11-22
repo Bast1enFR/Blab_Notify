@@ -27,7 +27,7 @@ Made with ❤️ by BLab
 
 # BLab Notify – Simple FiveM Notification (EN)
 
-![preview](https://github.com/TON_PSEUDO/blab_notify/assets/123456789/blab-notify-preview.gif)
+![preview](https://github.com/Bast1enFR/Blab_Notify/blob/main/view.png)
 
 Unlimited stack • Custom sound • Matte black design • Standalone 0 Dependency!
 
