@@ -1,4 +1,4 @@
-# BLab Notify – Notification FiveM Simple
+# BLab Notify – Notification FiveM Simple (FR)
 
 ![preview](https://github.com/TON_PSEUDO/blab_notify/assets/123456789/blab-notify-preview.gif)
 
@@ -23,7 +23,7 @@ Made with ❤️ by BLab
 
 ---
 
-# BLab Notify – Simple FiveM Notification (ENGLISH)
+# BLab Notify – Simple FiveM Notification (EN)
 
 ![preview](https://github.com/TON_PSEUDO/blab_notify/assets/123456789/blab-notify-preview.gif)
 
