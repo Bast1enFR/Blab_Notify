@@ -1,23 +1,17 @@
-# BLab PureHUD - HUD SIMPLE & ÉPURÉ
+# BLab Notify – Notification FiveM Simple
 
-https://github.com/USERNAME/blab_purehud/assets/123456789/une-capture-epique.gif
+![preview](https://github.com/TON_PSEUDO/blab_notify/assets/123456789/blab-notify-preview.gif)
 
-Toggle F11 • Barre GTA native désactivée • Noir mat moderne • Standalone
+Stack illimité • Son Custom • Design noir mat • Standalone 0 Dépendance !
 
-### Features
-- Design noir mat ultra épuré (style Wasabi / rcore)
-- Barres santé / armure / endurance fluides
-- Toggle F11 (RegisterKeyMapping)
-- Auto-hide en mort / menu pause
-- Barre de vie & armure GTA native désactivée
+### Installation (30 secondes)
+1. Glisse le dossier blab_notify dans tes resources  
+2. Ajoute dans ton server.cfg → ensure blab_notify  
+3. Redémarre ou refresh + start  
+→ C’est fini !
 
-### Installation
-1. Glisser le dossier `blab_purehud` dans vos resources
-2. Ajouter `ensure blab_purehud` dans votre server.cfg
-3. Profiter
-
-### Preview
-https://youtu.be/XXXXXXX (à remplacer par ta vidéo)
+### Preview vidéo (30 sec)
+https://youtu.be/TON_LIEN_ICI
 
 ### Support
 Discord : https://discord.gg/VzdUQsmu46
@@ -27,28 +21,22 @@ Tebex (gratuit) : https://blab.tebex.io
 
 Made with ❤️ by BLab
 
+---
 
+# BLab Notify – Simple FiveM Notification (ENGLISH)
 
-# BLab PureHUD - SIMPLE & CLEAN HUD (ENGLISH)
+![preview](https://github.com/TON_PSEUDO/blab_notify/assets/123456789/blab-notify-preview.gif)
 
-https://github.com/USERNAME/blab_purehud/assets/123456789/une-capture-epique.gif
+Unlimited stack • Custom sound • Matte black design • Standalone 0 Dependency!
 
-Toggle F11 • Native GTA bar disabled • Modern matte black • Standalone
+### Installation (30 seconds)
+1. Drag the blab_notify folder into your resources  
+2. Add to your server.cfg → ensure blab_notify  
+3. Restart or refresh + start  
+→ That’s it!
 
-### Features
-- Ultra-clean matte black design (Wasabi / rcore style)
-- Smooth health / armor / stamina bars
-- Toggle F11 (RegisterKeyMapping)
-- Auto-hide when dead / in pause menu
-- Native GTA health & armor bar disabled
-
-### Installation
-1. Drag the `blab_purehud` folder into your resources
-2. Add `ensure blab_purehud` to your server.cfg
-3. Enjoy
-
-### Preview
-https://youtu.be/XXXXXXX (replace with your video)
+### Video Preview (30 sec)
+https://youtu.be/TON_LIEN_ICI
 
 ### Support
 Discord: https://discord.gg/VzdUQsmu46
