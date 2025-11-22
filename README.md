@@ -1,3 +1,7 @@
+
+[🇫🇷](#fr) [🇬🇧](#en)
+
+<a name="fr"></a>
 # BLab Notify – Notification FiveM Simple (FR)
 
 ![preview](https://github.com/Bast1enFR/Blab_Notify/blob/main/view.png)
@@ -30,6 +34,7 @@ Made with ❤️ by BLab
 
 ---
 
+<a name="en"></a>
 # BLab Notify – Simple FiveM Notification (EN)
 
 ![preview](https://github.com/Bast1enFR/Blab_Notify/blob/main/view.png)
